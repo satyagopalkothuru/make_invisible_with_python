@@ -1,4 +1,15 @@
 
+# Prerequisites:-
+#       OPENCV
+#       Python
+# Process:-
+#       1.write the python code and save it.
+#       2.save it.
+#       3.You can run this from command prompt.
+#       4.After running this python file, a camera window will came into appearence.
+#       5.This saves a picture.
+#       6.Now you can try the magic with a red clothes
+
 #Importing essential libraries...
 import cv2
 import time
